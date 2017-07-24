@@ -1,5 +1,5 @@
----
-title:  "What is Fortitude?"
+--
+title:  "What is Fortitude&#63;"
 date:   2017-07-24 00:04:23
 published: true
 categories: [site]
