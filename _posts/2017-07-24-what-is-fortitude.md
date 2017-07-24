@@ -1,6 +1,6 @@
 ---
 title:  "What is Fortitude?"
-date:   2017-07-24 15:04:23
+date:   2017-07-24 00:04:23
 categories: [site]
 tags: [purpose]
 ---
